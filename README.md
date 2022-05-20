@@ -1,7 +1,9 @@
 # vue-practice
 ## 框架
-vue 2
+- vue 3
 
-## 套件
-tailwindcss
-storybook
+## 刻意練習
+- git 指令
+- .vscode
+
+
